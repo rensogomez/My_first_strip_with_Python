@@ -1,4 +1,5 @@
-# pc_performance---My-first-trip-with-Python
+# pc_performance: 
+My firt trip with Python
 
 This program is structured using the following directory path:
 
